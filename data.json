@@ -1,0 +1,42 @@
+{
+    "aboutMe": {
+        "id": 1,
+        "name": "Sevin DEMİRBAŞ YAY",
+        "profession": "Developer | IT Consultant",
+        "avatar": "https://tanersaydam.net/assets/profile-favicon.jpg",
+        "profileImage": "https://designnotes.blog.gov.uk/wp-content/uploads/sites/53/2020/06/Portfolio-Desk.jpg",
+        "about": "<p>Hardworking and dedicated software developer with 12 + years of experience in IT Consultancy. Certified with front end and back-end development technologies. Seeking a position to apply as a Full Stack developer where I can use my skills and abilities towards the organization’s growth. A certified Microsoft Azure practitioner with knowledge on cloud systems with AWS and Azure.Confident working in teams and contribute effectively at all stages of the project lifecycle from planning through delivery such as designing, developing, deploying, maintenance, and fixing bugs</p>"
+    },
+    "navigations": [
+        {
+            "id": 1,
+            "path": "./edit.html",
+            "name": "Edit",
+            "icon": "fa fa-edit"
+        },
+        {
+            "id": 2,
+            "path": "./index.html",
+            "name": "Home",
+            "icon": "fa fa-home"
+        },
+        {
+            "id": 3,
+            "path": "#skills",
+            "name": "Skills",
+            "icon": "fa fa-gear"
+        },
+        {
+            "id": 4,
+            "path": "#about",
+            "name": "About",
+            "icon": "fa fa-gear"
+        },
+        {
+            "id": 5,
+            "path": "#contact",
+            "name": "Contact",
+            "icon": "fa fa-gear"
+        }
+    ]
+}
